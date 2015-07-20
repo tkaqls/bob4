@@ -1,0 +1,16 @@
+﻿빌드 시작: 2015-07-21 오전 4:01:15
+     1>2 노드의 "C:\Users\savNi\Documents\Visual Studio 2013\Projects\test3\test3\test3.vcxproj" 프로젝트(Build 대상)입니다.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (hw1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\test3.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test3.cpp
+         test3.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\savNi\Documents\Visual Studio 2013\Projects\test3\Debug\test3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\savNi\Documents\Visual Studio 2013\Projects\test3\Debug\test3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\savNi\Documents\Visual Studio 2013\Projects\test3\Debug\test3.lib" /MACHINE:X86 Debug\test3.res
+         Debug\stdafx.obj
+         Debug\test3.obj
+         test3.vcxproj -> C:\Users\savNi\Documents\Visual Studio 2013\Projects\test3\Debug\test3.exe
+     1>"C:\Users\savNi\Documents\Visual Studio 2013\Projects\test3\test3\test3.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.60
